@@ -1,2 +1,2 @@
 # Jensen-li
-A personal website project
+A frontend to serve my personal website.
